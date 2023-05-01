@@ -6,15 +6,15 @@ Check it out
 most recent weather conditions (such as temperature, humidity, and wind speed).
 
 ## Project Specifications
+<ul>
+ <li>display UI with city name, wind speed, humidity and temperature </li>
+<li> allow users to search for specific city</li>
+<li>provide current weather data for a given location</li>
 
--display UI with city name, wind speed, humidity and temperature 
--allow users to search for specific city
--provide current weather data for a given location
-
-###Technologies
+### Technologies
 Project is created with:
 
--HTML5
--CSS3
--JavaScript
+- HTML5
+- CSS3
+- JavaScript 
 
