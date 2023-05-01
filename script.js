@@ -38,6 +38,11 @@ async function checkWeather(city) {
         document.querySelector(".error").style.display = "none";
     }
 }
+searchBox.addEventListener("keyup", function (e) {
+    if (e.key === "Enter") {
+        checkWeather(searchBox.value);
+    }
+})
 searchBtn, addEventListener("click", () => {
     checkWeather(searchBox.value);
 })
