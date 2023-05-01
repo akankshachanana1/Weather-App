@@ -10,6 +10,7 @@ most recent weather conditions (such as temperature, humidity, and wind speed).
  <li>display UI with city name, wind speed, humidity and temperature </li>
 <li> allow users to search for specific city</li>
 <li>provide current weather data for a given location</li>
+</ul>
 
 ### Technologies
 Project is created with:
