@@ -1,5 +1,5 @@
 # Weather-App
-Try it out 
+Check it out 
 [Weather-App](https://akankshachanana1.github.io/Weather-App/)
 
  Enables users to enter a location and obtain real-time weather information for that location, providing the
